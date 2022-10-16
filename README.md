@@ -1,3 +1,3 @@
 # Hi, I'm nerooon123
 
-<img src="/assets/images/world.gif"/>
+<img width="400" src="/assets/images/world.gif"/>

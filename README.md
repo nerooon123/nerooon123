@@ -1,1 +1,1 @@
-# <img src="/assets/world.gif"/>
+## <img height="40" src="/assets/world.gif"/>

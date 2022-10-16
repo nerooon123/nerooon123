@@ -4,6 +4,8 @@
 
 ## Found me on
 
+![nerooon123 GitHub stats](https://github-readme-stats.vercel.app/api?username=nerooon123&show_icons=true&theme=radical)
+
 ## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="/assets/images/vs-code.svg" style="padding-right:10px;" />

@@ -1,4 +1,4 @@
-# Hi, I'm nerooon123 and I'm a novice programmer
+# Hi, I'm nerooon123 and I'm a novice programmer!
 
 <img width="400" src="/assets/images/world.gif"/>
 

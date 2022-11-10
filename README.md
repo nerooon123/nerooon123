@@ -9,6 +9,7 @@
 ## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="/assets/images/vs-code.svg" style="padding-right:10px;" />
+<img align="left" alt="C#" width="26px" src="/assets/images/csharp.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="/assets/images/cppmain.png" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="26px" src="/assets/images/shell.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="/assets/images/html5.svg" style="padding-right:10px;" />

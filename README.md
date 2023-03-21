@@ -1,4 +1,4 @@
-# Hi, Timur and I'm a novice programmer!
+# Hi, my name is Timur and I'am a novice programmer
 
 <img width="400" src="/assets/images/world.gif"/>
 
@@ -7,8 +7,19 @@
 ![nerooon123 GitHub stats](https://github-readme-stats.vercel.app/api?username=nerooon123&show_icons=true&theme=radical)
 
 ## What I used:
-### ❤️C, C++, C#, Python
-### 💜 VS, VS Code, Sublime Text
+#### ❤️ C, C++, C#, Python
+#### 💜 VS, VS Code, Sublime Text, GNU GCC - G++
+#### 💛 Microsoft SQL Server, MySQL Workbench, SQLite
+#### 💚 WPF, Windows Forms, Windows API
+#### 💙 x64dbg, Ollydbg, IDA - (RE)
+#### 🎭 HTML5, CSS3, JS 
+
+## What I plan to learn (21.03.2023):
+#### 🚗 RabbitMQ, Kafka, Redis, Memcached, NuxtJS, MongoDB, PostgreSQL
+#### 🚕 C# - UI Frameworks
+#### 😑 I need to do a term paper
+
+## Besides programming, I also like anime 🍪
 
 ## Languages and Tools
 

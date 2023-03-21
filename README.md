@@ -1,4 +1,4 @@
-# Hi, I'm nerooon123 and I'm a novice programmer!
+# Hi, Timur and I'm a novice programmer!
 
 <img width="400" src="/assets/images/world.gif"/>
 
@@ -16,3 +16,7 @@
 <img align="left" alt="CSS3" width="26px" src="/assets/images/css3.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="/assets/images/js.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="/assets/images/github.png" style="padding-right:10px;" />
+
+## What I used:
+### C, C++, C#, Python
+### VS, VS Code, Sublime Text

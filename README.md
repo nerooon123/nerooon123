@@ -6,6 +6,10 @@
 
 ![nerooon123 GitHub stats](https://github-readme-stats.vercel.app/api?username=nerooon123&show_icons=true&theme=radical)
 
+## What I used:
+### C, C++, C#, Python
+### VS, VS Code, Sublime Text
+
 ## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="/assets/images/vs-code.svg" style="padding-right:10px;" />
@@ -16,8 +20,3 @@
 <img align="left" alt="CSS3" width="26px" src="/assets/images/css3.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="/assets/images/js.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="/assets/images/github.png" style="padding-right:10px;" />
-
-
-## What I used:
-### C, C++, C#, Python
-### VS, VS Code, Sublime Text

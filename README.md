@@ -7,8 +7,8 @@
 ![nerooon123 GitHub stats](https://github-readme-stats.vercel.app/api?username=nerooon123&show_icons=true&theme=radical)
 
 ## What I used:
-### C, C++, C#, Python
-### VS, VS Code, Sublime Text
+### ❤️C, C++, C#, Python
+### 💜 VS, VS Code, Sublime Text
 
 ## Languages and Tools
 

@@ -31,4 +31,4 @@
 <img align="left" alt="CSS3" width="26px" src="/assets/images/css3.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="/assets/images/js.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="/assets/images/github.png" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="26px" src="/assets/images/php.jpg" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="26px" src="/assets/images/php.png" style="padding-right:10px;" />

@@ -26,8 +26,6 @@
 ### 📊 Статистика GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerooon123&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6)](https://github.com/nerooon123)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nerooon123&theme=dark&locale=ru)](https://git.io/streak-stats)
-
 ---
 
 ### 🔗 Контакты

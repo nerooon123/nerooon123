@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, Я Nerooon!</h1>
-<h3 align="center">Python | AI | Open-Source энтузиаст из России</h3>
+<h3 align="center">Python | AI | С++</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Люблю+автоматизацию;Пишу+чистый+код;Создаю+крутые+проекты" alt="Typing SVG" /></a>
@@ -24,13 +24,10 @@
 ---
 
 ### ✨ Мои топ-проекты:
-1. **[Python Tetris](https://github.com/nerooon123/Python-Tetris)** - Тетрис на PyGame  
-2. **[Calculator](https://github.com/nerooon123/Calculator)** - Калькулятор на Tkinter  
-3. **[Discord Bot](https://github.com/nerooon123/Discord-bot)** - Бот для Discord  
+1. **[Death Gun](https://github.com/nerooon123/Death-Gun-v2)** - Копия игры Hotline Miami  
 
 ---
 
 ### 🌐 Контакты:
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram)](https://t.me/your_nick)
-[![VK](https://img.shields.io/badge/-VK-0077FF?style=flat&logo=vk)](https://vk.com/your_profile)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/your_id/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram)](https://t.me/nerooon123)
+[![VK](https://img.shields.io/badge/-VK-0077FF?style=flat&logo=vk)](https://vk.com/nerooon123)

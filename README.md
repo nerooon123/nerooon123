@@ -1,34 +1,49 @@
-# Hi, my name is Timur and I'am a novice programmer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=FCA121&center=true&vCenter=true&width=600&lines=👋+Привет,+я+nerooon123!;💻+Full-stack+разработчик;🔧+Люблю+JavaScript,+DevOps,+Open-Source" alt="Typing SVG" />
+</p>
 
-<img width="400" src="/assets/images/world.gif"/>
+---
 
-## Found me on
+## 👨‍💻 О себе
+Я — **nerooon123**. Разрабатываю веб‑приложения, API и автоматизирую процессы. Увлекаюсь фронтендом, серверной частью и CI/CD.
 
-![nerooon123 GitHub stats](https://github-readme-stats.vercel.app/api?username=nerooon123&show_icons=true&theme=radical)
+---
 
-## What I used:
-### ❤️ C, C++, C#, Python
-### 💜 VS, VS Code, Sublime Text, GNU GCC - G++
-### 💛 Microsoft SQL Server, MySQL Workbench, SQLite
-### 💚 WPF, Windows Forms, Windows API
-### 💙 x64dbg, Ollydbg, IDA - (RE)
-### 🎭 HTML5, CSS3, JS 
+## 🛠️ Навыки
+[![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,git)]()
 
-## What I plan to learn (21.03.2023):
-### 🚗 RabbitMQ, Kafka, Redis, Memcached, NuxtJS, MongoDB, PostgreSQL
-### 🚕 C# - UI Frameworks
-### 😑 I need to do a term paper
+---
 
-## Besides programming, I also like anime 🍪
+## 📊 GitHub статистика
+| 🔥 Текущая активность | 📈 Статистика |
+|-----------------------|--------------|
+| ![streak](https://github-readme-streak-stats.herokuapp.com/?user=nerooon123&theme=dark) | ![stats](https://github-readme-stats.vercel.app/api?username=nerooon123&show_icons=true&theme=vue) |
 
-## Languages and Tools
+---
 
-<img align="left" alt="Visual Studio Code" width="26px" src="/assets/images/vs-code.svg" style="padding-right:10px;" />
-<img align="left" alt="C#" width="26px" src="/assets/images/csharp.png" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="/assets/images/cppmain.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="/assets/images/python.png" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="/assets/images/html5.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="/assets/images/css3.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="/assets/images/js.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="/assets/images/github.png" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="26px" src="/assets/images/php.png" style="padding-right:10px;" />
+## 🚀 Проекты
+
+- **[Project A](https://github.com/nerooon123/project-a)** – краткое описание (например: SPA на React + Node.js, авторизация, API).
+- **[Project B](https://github.com/nerooon123/project-b)** – описание: микросервисы на Docker/Kubernetes.
+- **Open‑source вклад:** участвовал в [some-repo](https://github.com/other/repo) (issues, PR, review etc.).
+
+---
+
+## ✨ Дополнительно
+
+- 📝 Блог (через Actions‑RSS) – автоматически обновляется.
+- 🐍 Snake-график: разрабатываю fun-игру на графике коммитов.
+
+---
+
+## 📬 Контакты
+
+- 📧 [Email](mailto:youremail@example.com)
+- 💬 Telegram: [@nerooon123](https://t.me/nerooon123)
+- 🔗 LinkedIn: [linkedin.com/in/ваш‑профиль](https://linkedin.com/in/…)
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nerooon123.nerooon123" alt="visitor badge"/>
+</div>

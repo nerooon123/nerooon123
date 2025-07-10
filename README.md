@@ -1,49 +1,36 @@
+<h1 align="center">Привет 👋, Я Nerooon!</h1>
+<h3 align="center">Python | AI | Open-Source энтузиаст из России</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=FCA121&center=true&vCenter=true&width=600&lines=👋+Привет,+я+nerooon123!;💻+Full-stack+разработчик;🔧+Люблю+JavaScript,+DevOps,+Open-Source" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Люблю+автоматизацию;Пишу+чистый+код;Создаю+крутые+проекты" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-## 👨‍💻 О себе
-Я — **nerooon123**. Разрабатываю веб‑приложения, API и автоматизирую процессы. Увлекаюсь фронтендом, серверной частью и CI/CD.
+### 🛠 Мой стек:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 
 ---
 
-## 🛠️ Навыки
-[![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,git)]()
+### 📈 Статистика:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerooon123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nerooon123&theme=dark)](https://git.io/streak-stats)
 
 ---
 
-## 📊 GitHub статистика
-| 🔥 Текущая активность | 📈 Статистика |
-|-----------------------|--------------|
-| ![streak](https://github-readme-streak-stats.herokuapp.com/?user=nerooon123&theme=dark) | ![stats](https://github-readme-stats.vercel.app/api?username=nerooon123&show_icons=true&theme=vue) |
+### ✨ Мои топ-проекты:
+1. **[Python Tetris](https://github.com/nerooon123/Python-Tetris)** - Тетрис на PyGame  
+2. **[Calculator](https://github.com/nerooon123/Calculator)** - Калькулятор на Tkinter  
+3. **[Discord Bot](https://github.com/nerooon123/Discord-bot)** - Бот для Discord  
 
 ---
 
-## 🚀 Проекты
-
-- **[Project A](https://github.com/nerooon123/project-a)** – краткое описание (например: SPA на React + Node.js, авторизация, API).
-- **[Project B](https://github.com/nerooon123/project-b)** – описание: микросервисы на Docker/Kubernetes.
-- **Open‑source вклад:** участвовал в [some-repo](https://github.com/other/repo) (issues, PR, review etc.).
-
----
-
-## ✨ Дополнительно
-
-- 📝 Блог (через Actions‑RSS) – автоматически обновляется.
-- 🐍 Snake-график: разрабатываю fun-игру на графике коммитов.
-
----
-
-## 📬 Контакты
-
-- 📧 [Email](mailto:youremail@example.com)
-- 💬 Telegram: [@nerooon123](https://t.me/nerooon123)
-- 🔗 LinkedIn: [linkedin.com/in/ваш‑профиль](https://linkedin.com/in/…)
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nerooon123.nerooon123" alt="visitor badge"/>
-</div>
+### 🌐 Контакты:
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram)](https://t.me/your_nick)
+[![VK](https://img.shields.io/badge/-VK-0077FF?style=flat&logo=vk)](https://vk.com/your_profile)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/your_id/)

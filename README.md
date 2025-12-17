@@ -4,16 +4,17 @@
 
 ## Language
 
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Tools
 
-![CMake](https://img.shields.io/badge/CMake-000?style=for-the-badge)
-![x64dbg](https://img.shields.io/badge/x64dbg-000?style=for-the-badge)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-000?style=for-the-badge)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-FF6600?style=for-the-badge)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-FF6C37?style=for-the-badge)
 
 ## Version Control
 
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+

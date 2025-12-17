@@ -1,6 +1,6 @@
 # nerooon123
 
-![Пример](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVtc3g4eWluMzZ2aGdkaXpzdWJoeml1OGg3OTh5dXBpM3B2MGZkcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mCDXo3yYjTXgGCGXIY/giphy.gif)
+![Пример](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTYyazEyMGs1bWIxandqbGlmeHpiMm0yNHE2eDQwOHhkM3dieDlnbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/105TPTlFrqaW1G/giphy.gif)
 
 ## Language
 

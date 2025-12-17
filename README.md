@@ -1,35 +1,19 @@
-# Привет, меня зовут Тимур! 👋
+# nerooon123
 
-💻 Разработчик на C++ / Python / С#  
+![Пример](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVtc3g4eWluMzZ2aGdkaXpzdWJoeml1OGg3OTh5dXBpM3B2MGZkcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mCDXo3yYjTXgGCGXIY/giphy.gif)
 
----
+## Language
 
-### 🛠️ Мой стек технологий
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
 
----
+## Tools
 
-### 🔥 Мои проекты
-1. [Проект на C++](https://github.com/nerooon123/chat_project) - TCP Chat Server and Client на C++ (Winsock2)
-2. [Проект на C++](https://github.com/nerooon123/chat_project/tree/v0.2) - TCP Chat Project v0.2
-3. [Проект на Unity/С#](https://github.com/nerooon123/Death-Gun-v2) - Unity/С#, клон Hotline Miami
+![CMake](https://img.shields.io/badge/CMake-000?style=for-the-badge)
+![x64dbg](https://img.shields.io/badge/x64dbg-000?style=for-the-badge)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-000?style=for-the-badge)
 
----
+## Version Control
 
-### 📊 Статистика GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerooon123&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6)](https://github.com/nerooon123)
-
----
-
-### 🔗 Контакты
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nerooon123)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nerooon123)
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/nerooon123)
-
----
-
-💡 "Есть только два вида языков программирования: те, на которые все всё время ругаются, и те, которые никто не использует." – Bjarne Stroustrup
-
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)

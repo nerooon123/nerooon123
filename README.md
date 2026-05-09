@@ -1,7 +1,5 @@
 # nerooon123
 
-![Пример](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamVubWo0M2QzbjN4eTVqdHYwOWkya2x1MjFrZW9yb20xamZwZGlnaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7H3hW3tKIbN8urkCc9/giphy.gif)
-
 ## Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
